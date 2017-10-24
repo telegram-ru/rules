@@ -24,5 +24,5 @@
 - [CoreOS](https://t.me/coreos_ru) — https://t.me/coreos_ru/65
 - [kubernetes](https://t.me/kubernetes_ru) — https://t.me/kubernetes_ru/14
 - [DevOps](https://t.me/devops_ru) — ?
-- [rkt](https://t.me/rkt_ru) — t.me/rkt_ru/20
+- [rkt](https://t.me/rkt_ru) — https://t.me/rkt_ru/20
 - [OpenStack](https://t.me/openstack_ru) — ?
